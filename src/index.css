@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+html {
+  background-image: url('../resources/bg.jpg');
+}
+
+.points-counter {
+  background: linear-gradient(90deg, #E65895, #BC6BE8);
+}
